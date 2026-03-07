@@ -1,47 +1,65 @@
 # SteelCap Systems
 
-Technology for construction. Built in public. Australian made.
+Open tooling for hard jobs. Built in public. Free to use.
 
 ---
 
 ## What we do
 
-Boots on the ground tooling.
+SteelCap Systems applies cutting-edge research and technology to gritty, real-world tasks.
 
-Every construction business already has a stack — safety platforms, site diaries, project management tools, compliance systems. They all do their core job. They all have gaps. And the answer is never "rip it out and start again."
+Steel cap boots symbolise practical work, real conditions, and people operating on the ground. SteelCap is for anyone doing hard, risky, high-consequence work and needing better tooling around them.
 
-SteelCap Systems builds the missing pieces. Focused, platform agnostic tools and integrations that plug into whatever you're already running and make it smarter. Retrofits, not replacements.
+That could mean construction. It could mean defence. It could mean emergency response. It could mean combat sports. It could mean any domain where the work is serious, the environment is messy, and failure has a cost.
 
-Everything here is open and free - use it, build on it or ship it.
+We build practical, open tools to help.
+
+---
+
+## Why this approach
+
+The goal is not to build apps for the sake of building apps.
+
+The goal is to create the form of solution that helps the most people.
+
+Sometimes that will be software. Sometimes it will be a model, a workflow, an evaluation harness, a specification, a prompt, a dataset, or a reference implementation. The output should match the problem.
+
+If an AI model can reliably one-shot an application from a strong prompt and specification, then the most useful thing to publish may not be the app itself. It may be the specification that lets any user generate the implementation in their own stack, language, or environment.
+
+We care more about usefulness and leverage than shipping polished standalone products by default.
+
+---
+
+## Open by default
+
+Everything here is released under Apache 2.0 unless stated otherwise.
+
+Use it internally. Build on it. Adapt it. Commercialise it. Take the ideas and apply them where they are needed.
+
+The point is for the tooling to be available to the people who need it, in whatever form works best for them.
 
 ---
 
 ## Why now
 
-These problems have always been understood. The solutions just cost more to build than they were worth.
+A lot of these problems have been obvious for years. The reason they stayed unsolved was usually economic, not conceptual.
 
-AI changes that equation. The cost of building software has collapsed. Tools that would have needed a six month development team are now a weekend project. This means useful things that could never justify their own existence before, suddenly can.
+The cost of building useful tooling has collapsed. AI and modern software workflows make it possible to produce things that would previously have required a full team, a large budget, or months of engineering time.
 
-So we build them. Cheaply, openly, and without waiting for someone to put a price tag on it.
+That changes what is worth making.
 
----
-
-## What's here
-
-An ever-growing collection of tools, integrations, and experiments. Some will be rough around the edges. Working and useful is the priority.
-
-Whether something here ends up inside a vendor's solution or deployed internally, the industry moves faster. That's what we're after.
+It means niche, unglamorous, operationally useful tooling can now exist. So that is what we are interested in building.
 
 ---
 
 ## Why Australia
 
-Australian construction is world class. The talent is here, the scale is here, we can own the problems.
+Australia produces serious people in serious industries.
 
-We can own the solutions too.
+We understand operational work. We understand distance, complexity, and harsh environments. We understand getting things done without theatrics.
+
+That makes this a good place to build from.
 
 ---
 
 **[steelcap.systems](https://steelcap.systems)**
-
-*Building in public 🇦🇺*
