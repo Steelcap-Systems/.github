@@ -10,7 +10,7 @@ SteelCap Systems applies cutting-edge research and technology to gritty, real-wo
 
 Steel cap boots symbolise practical work, real conditions, and people operating on the ground. SteelCap is for anyone doing hard, risky, high-consequence work and needing better tooling around them.
 
-That could mean construction. It could mean defence. It could mean emergency response. It could mean combat sports. It could mean any domain where the work is serious, the environment is messy, and failure has a cost.
+That could mean the trades. It could mean defence. It could mean emergency response. It could mean combat sports. It could mean any domain where the work is serious, the environment is messy, and failure has a cost.
 
 We build practical, open tools to help.
 
