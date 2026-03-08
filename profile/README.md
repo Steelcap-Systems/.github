@@ -52,14 +52,4 @@ It means niche, unglamorous, operationally useful tooling can now exist. So that
 
 ---
 
-## Why Australia
-
-Australia produces serious people in serious industries.
-
-We understand operational work. We understand distance, complexity, and harsh environments. We understand getting things done without theatrics.
-
-That makes this a good place to build from.
-
----
-
 **[steelcap.systems](https://steelcap.systems)**
